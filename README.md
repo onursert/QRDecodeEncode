@@ -1,4 +1,4 @@
-# QRDecodeEncode
+# QR Decode Encode
 <p>QR Decode Encode (with MessagingToolkit.QRCode) - 2015 (C#)</p>
 <p>QR Decode Encode is a tool for Windows PCs allows you to decode or encode QR codes.</p>
 <img src="QRDecodeEncode.gif">
